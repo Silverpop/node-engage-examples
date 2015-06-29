@@ -1,0 +1,10 @@
+
+module.exports = {
+    //debugLevel: 9,
+    pod: 1,
+    oAuthClientId: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
+    oAuthClientSecret: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
+    oAuthRefreshToken: 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
+    //sftpPrivateKeyPath: __dirname + '/sftp.key'
+};
+

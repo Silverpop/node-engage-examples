@@ -1,0 +1,8 @@
+
+module.exports = {
+    consumer_key: 'xxxxxxxxxxxx',
+    consumer_secret: 'xxxxxxxxxxxx',
+    access_token: 'xxxxxxxxxxxx',
+    access_token_secret: 'xxxxxxxxxxxx'
+}
+

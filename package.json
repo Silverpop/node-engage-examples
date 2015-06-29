@@ -1,0 +1,21 @@
+{
+    "name": "engage-api-examples",
+    "version": "0.1.1",
+    "description": "Examples of engage-api package usage",
+    "keywords": [
+        "silverpop",
+        "engage",
+        "api"
+    ],
+    "author": "Joe Lafiosca <jlafiosc@us.ibm.com>",
+    "contributors": [
+        "Eric Hutson <ehutson@us.ibm.com>"
+    ],
+    "license": "MIT",
+    "repository": "Silverpop/node-engage-examples",
+    "bugs": "https://github.com/Silverpop/node-engage-examples/issues",
+    "dependencies": {
+        "engage-api": "^0.1.1",
+        "twit": "^1.1.20"
+    }
+}
